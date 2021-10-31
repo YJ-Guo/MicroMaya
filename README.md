@@ -18,4 +18,5 @@ Triangulate a selected face in the mesh.
 
 ### Skeletons and Skinning
 After binding the mesh and skeleton, the mesh can deform based on the skeleton with selected control joint. The weight influence of the joint on each vertex can be modified or replaced. [Youtube](https://www.youtube.com/watch?v=PMA9sk4jaMo)
-<iframe width="896" height="504" src="https://www.youtube.com/embed/PMA9sk4jaMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Use skeleton to change the mesh.](http://img.youtube.com/vi/PMA9sk4jaMo/0.jpg)](https://www.youtube.com/watch?v=PMA9sk4jaMo)
